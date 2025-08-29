@@ -1,3 +1,3 @@
 def analyze_list(numbers):
-    # Uzupełnij kod, aby zwrócić długość listy, najmniejszą i największą liczbę
-    return ____________, ____________, ____________
+    return (len(numbers), min(numbers), max(numbers))
+print (analyze_list([4, 7, 1, 9, 3])) 
